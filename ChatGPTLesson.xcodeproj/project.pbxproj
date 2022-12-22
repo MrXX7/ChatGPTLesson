@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AD90433B295457130075765A /* ChatGPTLessonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90433A295457130075765A /* ChatGPTLessonApp.swift */; };
-		AD90433D295457130075765A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90433C295457130075765A /* ContentView.swift */; };
+		AD90433D295457130075765A /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90433C295457130075765A /* ListView.swift */; };
 		AD90433F295457150075765A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD90433E295457150075765A /* Assets.xcassets */; };
 		AD904342295457150075765A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD904341295457150075765A /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		AD904337295457130075765A /* ChatGPTLesson.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatGPTLesson.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD90433A295457130075765A /* ChatGPTLessonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatGPTLessonApp.swift; sourceTree = "<group>"; };
-		AD90433C295457130075765A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AD90433C295457130075765A /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		AD90433E295457150075765A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD904341295457150075765A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				AD90433A295457130075765A /* ChatGPTLessonApp.swift */,
-				AD90433C295457130075765A /* ContentView.swift */,
+				AD90433C295457130075765A /* ListView.swift */,
 				AD90433E295457150075765A /* Assets.xcassets */,
 				AD904340295457150075765A /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD90433D295457130075765A /* ContentView.swift in Sources */,
+				AD90433D295457130075765A /* ListView.swift in Sources */,
 				AD90433B295457130075765A /* ChatGPTLessonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
